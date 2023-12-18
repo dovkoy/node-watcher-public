@@ -2,7 +2,7 @@
 
 ## How weights and biases affect an activation function
 
-Josh Stammer points out in his [excellent presentation](https://www.youtube.com/watch?v=CqOfi41LfDw) that neural networks are really Big Fancy Squiggle Fitting Machines (BFSFM). That’s exactly what they do; they fit data to a squiggly line that we can use to make predictions.
+Josh Starmer points out in his [excellent presentation](https://www.youtube.com/watch?v=CqOfi41LfDw) that neural networks are really Big Fancy Squiggle Fitting Machines (BFSFM). That’s exactly what they do; they fit data to a squiggly line that we can use to make predictions.
 
 A neural network is a collection of entities (called nodes) organized in three parts: an input, an output, and the "hidden layer" - nodes between the input and output, which comprise most of the network. Almost all processing occurs in the hidden layer.
 
